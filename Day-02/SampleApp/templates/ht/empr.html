@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Employee Registration</title>
+</head>
+<body>
+	<form method="post">
+		{% csrf_token %}
+		<label>Employee Name:</label>
+		<input type="text" name="en"><br/>
+		<label>Employee Age:</label>
+		<input type="number" name="ea"><br/>
+		<label>Employee Email:</label>
+		<input type="email" name="ee"><br/>
+		<label>Employee Salary:</label>
+		<input type="number" name="es"><br/>
+		<input type="submit" value="Create">
+	</form>
+</body>
+</html>
