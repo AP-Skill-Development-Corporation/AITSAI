@@ -11,3 +11,9 @@ Django for AI/DS
   - HttpResponse with string,html tag,css and javascript passing values
   - Dynamic Url Mapping
   - Controller to Templates flow structures 
+
+## Day-03(03-06-2022):
+  - Static File accessing with external css,js and images
+  - Form Creation by using internal and external css
+  - Bootstrap4 overview and with grid system
+  - Created Registration form by using bootstrap4
