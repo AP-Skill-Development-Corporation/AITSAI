@@ -17,3 +17,8 @@ Django for AI/DS
   - Form Creation by using internal and external css
   - Bootstrap4 overview and with grid system
   - Created Registration form by using bootstrap4
+
+## Day-04(04-06-2022):
+  - Shell overview by using manage.py file
+  - ORM Queries with crud operations
+  - Creation of a record by using form with ORM query
