@@ -1,0 +1,1 @@
+alert("Hello Welcome this is demo for external js");
