@@ -22,3 +22,7 @@ Django for AI/DS
   - Shell overview by using manage.py file
   - ORM Queries with crud operations
   - Creation of a record by using form with ORM query
+
+## Day-05(06-06-2022):
+  - Update,delete and retrieve record by using template
+  - template blocks,offline bootstrap4 access by using static 
