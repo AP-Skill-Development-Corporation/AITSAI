@@ -26,3 +26,7 @@ Django for AI/DS
 ## Day-05(06-06-2022):
   - Update,delete and retrieve record by using template
   - template blocks,offline bootstrap4 access by using static 
+
+## Day-06(07-06-2022):
+  - Login,Logout and messages concept
+  - Existing model and form access from admin
